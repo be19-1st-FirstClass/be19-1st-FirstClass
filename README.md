@@ -12,7 +12,7 @@
 
 |   |   |   |   |   |
 | :--------------------------------------------------------------: | :--------------------------------------------------------------: | :--------------------------------------------------------------------------: | :-----------------------------------------------------------: | :--------------------------------------------------------------: |
-|      <img src="./image/jeong.jpg" width="120px;" alt=""/>      |      <img src="./image/paik.jpeg" width="120px;" alt=""/>      |            <img src="./image/lee.jpeg" width="120px;" alt=""/>            |    <img src="./image/byun.jpeg" width="120px;" alt=""/>     |      <img src="./image/nam.jpg" width="120px;" alt=""/>      |
+|      <img src="./image/jeong.jpg" width="120px;" alt=""/>      |      <img src="./image/paik.webp" width="120px;" alt=""/>      |            <img src="./image/lee.jpeg" width="120px;" alt=""/>            |    <img src="./image/byun.jpeg" width="120px;" alt=""/>     |      <img src="./image/nam.jpg" width="120px;" alt=""/>      |
 |      [정유진](https://github.com/YujinJeong1006)      |      [백준승](https://github.com/seoguhoe2)      |      [이순우](https://github.com/SoonWooLee1)      |      [변민철](https://github.com/bynmch)      |      [남우경](https://github.com/woo-kyoung-nam)      |
 
 </div>
